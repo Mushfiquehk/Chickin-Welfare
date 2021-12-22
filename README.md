@@ -1,2 +1,2 @@
 # Chickin'-Welfare
-System that classifies chicken vocalizations as healthy or sick using a convolutional neural network
+Binary classification system able to distinguish sick from healthy chicken audio by generating Mel Spectrograms and using it to train a Convolutional Neural Network
